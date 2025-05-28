@@ -124,4 +124,6 @@ Base de datos para gestión de citas
 Sistema de autenticación para Sign In/Sign Up
 
 
-Nota: Asegúrate de tener todas las imágenes requeridas para que el sitio se visualice correctamente. Las imágenes faltantes aparecerán como enlaces rotos en el navegador.
+Nota: Este proyecto no tiene @media por lo que la resolución adecuada para verlo es de 1280x800
+![Image](https://github.com/user-attachments/assets/e000f4e3-22ea-4a8a-9744-fc8d20c8f31a)
+Asegúrate de tener todas las imágenes requeridas para que el sitio se visualice correctamente. Las imágenes faltantes aparecerán como enlaces rotos en el navegador.
