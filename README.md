@@ -49,7 +49,8 @@ Comillas decorativas
 
 
 
-Estructura de archivos
+Estructura de archivos :
+
 proyecto-spa/
 ├── index.html          # Archivo principal HTML
 ├── css/
@@ -66,6 +67,7 @@ proyecto-spa/
     ├── arrow-down.svg
     ├── search-icon.png
     └── bag-icon.png
+    
 Cómo visualizar el proyecto
 Opción 1: Visualización local simple
 
